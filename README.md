@@ -1,4 +1,4 @@
-# AngioTool
+# AngioTool development project
 AngioTool is a lightweight software for quantitative analysis of angiogenesis. It provides free, open source tools for quantitative assessment of various vessel morphometric and spatial parameters including vessel length and density, branching index, lacunarity, etc. AngioTool allows for robust analysis through an user-friendly interface.  
 
 ## Development aims 
